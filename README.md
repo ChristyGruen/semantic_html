@@ -39,10 +39,10 @@ The updated website meets accessibility standards and is optimized for search en
 ## Website Link
 
 <!-- HTML embed link
-<a href="https://christygruen.github.io/semantic_html/">Updated Horiseon website</a> -->
+<a href="https://christygruen.github.io/semantic_html/" target="_blank">Updated Horiseon website</a> -->
 
 <!-- markdown embed link -->
-[Updated Horiseon website](https://christygruen.github.io/semantic_html/)
+[Updated Horiseon website](https://christygruen.github.io/semantic_html/ target="_blank")
 
 ## Completed by:
   #### Chris Gruenhagen 24June2023
