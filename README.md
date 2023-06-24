@@ -1,9 +1,54 @@
-# Semantic HTML Homework Assignment
-## Module 1 homework
+# Semantic HTML- module 1 homework
 
-put my stuff here
+## Description
+Update the Horiseon website code for search engine optimization and accessibility.  User Story and Acceptance Criteria provided below:
 
-------------------------------------------------------
+  ### User Story
+
+  ```
+  AS A marketing agency
+  I WANT a codebase that follows accessibility standards
+  SO THAT our own site is optimized for search engines
+  ```
+
+  ### Acceptance Criteria
+
+  ```
+  GIVEN a webpage meets accessibility standards
+  WHEN I view the source code
+  THEN I find semantic HTML elements
+  WHEN I view the structure of the HTML elements
+  THEN I find that the elements follow a logical structure independent of styling and positioning
+  WHEN I view the icon and image elements
+  THEN I find accessible alt attributes
+  WHEN I view the heading attributes
+  THEN they fall in sequential order
+  WHEN I view the title element
+  THEN I find a concise, descriptive title
+```
+## Website Screenshot
+
+The updated website meets accessibility standards and is optimized for search engines.  The updates are invisible to the customer.
+
+<!-- html embed image
+<img src="./assets/images/Horiseon-updated.png" alt = "updated Horiseon website"> -->
+
+<!-- markdown embed image -->
+![updated Horiseon website](./assets/images/Horiseon-updated.png)
+
+## Website Link
+
+<!-- HTML embed link
+<a href="https://christygruen.github.io/semantic_html/">Updated Horiseon website</a> -->
+
+<!-- markdown embed link -->
+[Updated Horiseon website](https://christygruen.github.io/semantic_html/)
+
+## Completed by:
+  #### Chris Gruenhagen 24June2023
+😸😸😸😸😸😸😸😸😸😸
+
+<!-- ------------------------------------------------------
 Homework Instructions
 
 # 01 HTML, CSS, and Git: Code Refactor
@@ -163,4 +208,4 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. -->
